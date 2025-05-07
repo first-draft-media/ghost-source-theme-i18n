@@ -292,7 +292,7 @@ body[class*=" gh-font-heading"]:not(.gh-font-heading-fira-sans):not(.gh-font-hea
 
 .gh-form .gh-button {
     position: absolute;
-    right: 6px;
+    inset-inline-end: 6px;
     padding-inline: 32px;
     height: 44px;
     font-size: inherit;
