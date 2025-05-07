@@ -1,8 +1,15 @@
 {
 	"Account": "Account",
+	"Featured": "Featured",
+	"Latest": "Latest",
 	"Menu": "Menu",
+	"Powered by {ghostlink}": "Powered by {ghostlink}",
 	"Read more": "Read more",
+	"Recommendations": "Recommendations",
+	"Search posts, tags and authors": "Search posts, tags and authors",
+	"See all": "See all",
 	"Sign in": "Sign in",
 	"Search this site": "Search this site",
-	"Subscribe": "Subscribe"
+	"Subscribe": "Subscribe",
+	"Upgrade": "Upgrade"
 }
