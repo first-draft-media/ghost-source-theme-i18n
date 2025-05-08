@@ -1,12 +1,12 @@
 {
-	"1 min read": "1 min read",
-	"% min read": "% min read",
+	"1 min read": "۱ دقیقه وقت خواندن",
+	"% min read": "% وقت خواندن",
 	"Account": "حساب کاربری",
-	"By": "توسط",
+	"By": "نوشته",
 	"Featured": "اصلی",
 	"Latest": "تازه‌ترین",
 	"Menu": "منو",
-	"Page %": "Page %",
+	"Page %": "صفحه %",
 	"Powered by {ghostlink}": "با حمایت {ghostlink}",
 	"Read more": "دنباله مطلب",
 	"Recommendations": "توصیه",
@@ -15,5 +15,5 @@
 	"Sign in": "ورود به حساب کاربری",
 	"Search this site": "جستجو در این وبسایت",
 	"Subscribe": "اشتراک",
-	"Upgrade": "اشتراک برتر"
+	"Upgrade": "اشتراک کامل"
 }
