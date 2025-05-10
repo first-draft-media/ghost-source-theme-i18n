@@ -2,6 +2,7 @@
 	"1 min read": "۱ دقیقه وقت خواندن",
 	"% min read": "% وقت خواندن",
 	"Account": "حساب کاربری",
+	"Already have an account?": "Already have an account?",
 	"By": "نوشته",
 	"Featured": "اصلی",
 	"Latest": "تازه‌ترین",
@@ -15,5 +16,13 @@
 	"Sign in": "ورود به حساب کاربری",
 	"Search this site": "جستجو در این وبسایت",
 	"Subscribe": "اشتراک",
-	"Upgrade": "اشتراک کامل"
+	"Subscribe now": "Subscribe now",
+	"This page is for paying subscribers only": "This page is for paying subscribers only",
+	"This post is for paying subscribers only": "This post is for paying subscribers only",
+	"This page is for subscribers only": "This page is for subscribers only",
+	"This post is for subscribers only": "This post is for subscribers only",
+	"This page is for subscribers on the {tiers} only": "This page is for subscribers on the {tiers} only",
+	"This post is for subscribers on the {tiers} only": "This post is for subscribers on the {tiers} only",
+	"Upgrade": "اشتراک کامل",
+	"Upgrade your account": "Upgrade your account"
 }
