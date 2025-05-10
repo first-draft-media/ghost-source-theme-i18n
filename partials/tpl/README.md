@@ -1,0 +1,1 @@
+To override, move a file to the parent `/partials` directory.
