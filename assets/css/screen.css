@@ -131,6 +131,10 @@ h1, h2, h3, h4, h5, h6 {
 /* 4. Globals
 /* ---------------------------------------------------------- */
 
+html[dir="rtl"] input[type="email"] {
+  direction: ltr;
+}
+
 body {
     font-family: var(--gh-font-body, var(--font-sans));
     font-size: 1.6rem;
@@ -292,7 +296,7 @@ body[class*=" gh-font-heading"]:not(.gh-font-heading-fira-sans):not(.gh-font-hea
 
 .gh-form .gh-button {
     position: absolute;
-    inset-inline-end: 6px;
+    right: 6px;
     padding-inline: 32px;
     height: 44px;
     font-size: inherit;
